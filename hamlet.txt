@@ -1,5 +1,5 @@
 HAMLETTE
 
-King Guy: I am a ghost:
+King Guy: I am a ghost!:
 
 POLONIUS: I'm behind a curtain! You're gross!
